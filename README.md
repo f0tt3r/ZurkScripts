@@ -43,7 +43,7 @@ git checkout -b имя_ветки
 ```
 
 2. Воси изменения:
-Редактируй файлы в удобном тебе редакторе.
+Редактируй файлы в [Visual Code](https://code.visualstudio.com/).
 
 3. Сохраняй изменения:
 
@@ -51,11 +51,16 @@ git checkout -b имя_ветки
 git add .
 git commit -m "Описание внесённых изменений"
 ```
+
+ну или через сам Visual Code.
+
 4. Отправь изменения на GitHub:
 
 ```bash
 git push origin имя_ветки
 ```
+
+опять же можно через Visual Code.
 
 ## Создание Pull Request
 
